@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Fire Service & Civil Defence, Rangpur",
+    "latitude": 25.7463,
+    "longitude": 89.2521,
+    "phoneNumber": "+8801712345678"
+  },
+  {
+    "name": "Fire Service Mosque",
+    "latitude": 25.7510,
+    "longitude": 89.2556,
+    "phoneNumber": "+8801723456789"
+  },
+  {
+    "name": "Haragach Fire Service And Civil Defence",
+    "latitude": 25.8164,
+    "longitude": 89.2560,
+    "phoneNumber": "+8801734567890"
+  },
+  {
+    "name": "Gangachara Fire Service & Civil Defence",
+    "latitude": 25.7458,
+    "longitude": 89.2446,
+    "phoneNumber": "+8801745678901"
+  }
+]
