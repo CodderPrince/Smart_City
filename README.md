@@ -2,8 +2,6 @@
 # 📱Smart City Toolkit — JavaFX-Based Smart City Utility Suite
 ---
 
-
-
 <p align="center">
   <img src="UI/image_2025-01-31_15-30-00.png" width="260" />
   <img src="UI/image_2025-08-09_03-24-29.png" width="260" />
@@ -69,10 +67,10 @@ Whether you're a developer exploring desktop UI, a student learning JavaFX, or a
 
 ### Run Locally
 1. Clone the repository:
-   ```bash
+   ```
    git clone https://github.com/CodderPrince/Smart_City.git
    cd Smart_City
-````
+    ```
 
 2. Import into your favorite Java IDE (IntelliJ/Eclipse), configure JavaFX and library dependencies.
 3. Run the main app via:
